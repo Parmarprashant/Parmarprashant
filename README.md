@@ -41,7 +41,7 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prashant-parmar-0700373a1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://prashantparmar989.netlify.app/) <a href="file:///C:/Users/Prashant/Downloads/Prashant%20Parmar%20_%20Full%20Stack%20Developer%20Resume.pdf" download> <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" /> </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://prashantparmar.vercel.app/) <a href="https://drive.google.com/file/d/1uOpweeWNytXeIpaCvz6ab3a-dw4Rpo2y/view?usp=sharing" download> <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" /> </a>
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/channel/UCfusctJZ4sV_hc31nfF3EuQ)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/parmarprashant/)
 
