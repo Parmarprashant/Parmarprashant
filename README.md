@@ -1,19 +1,27 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=bd93f9&height=200&section=header&text=Prashant%20Parmar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20(MERN)%20%E2%80%A2%20Open-Source%20Enthusiast%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=55&descColor=ffffff" width="100%" alt="Header" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=venom&color=bd93f9&height=200&section=header&text=Prashant%20Parmar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20(MERN)%20%E2%80%A2%20Open-Source%20Enthusiast%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=55&descColor=ffffff" />
+    <img
+      src="https://capsule-render.vercel.app/api?type=venom&color=0:e0c3fc,100:8ec5fc&height=200&section=header&text=Prashant%20Parmar&fontSize=50&fontColor=1a0533&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20(MERN)%20%E2%80%A2%20Open-Source%20Enthusiast%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=55&descColor=2d1069"
+      width="100%" alt="Header" />
+  </picture>
 </div>
 
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Student+%7C+Developer;MERN+Stack+Learner;Tech+Enthusiast;Future+Full+Stack+Developer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Student+%7C+Developer;MERN+Stack+Learner;Tech+Enthusiast;Future+Full+Stack+Developer" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=6a0dad&center=true&vCenter=true&width=500&lines=Student+%7C+Developer;MERN+Stack+Learner;Tech+Enthusiast;Future+Full+Stack+Developer"
+      alt="Typing SVG" />
+  </picture>
 </p>
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
-
-<div align="center">
 
 ### 👁️ Profile Views
 
