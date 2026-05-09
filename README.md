@@ -24,7 +24,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 <div align="center">
  👁️ Profile Views
-<br/>
+<br>
 <img src="https://komarev.com/ghpvc/?username=Parmarprashant&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS" alt="Profile Views" />  <img src="https://img.shields.io/github/stars/Parmarprashant?style=for-the-badge&color=bd93f9&label=TOTAL+STARS&logo=github" alt="GitHub Stars" />
 
 </div>
