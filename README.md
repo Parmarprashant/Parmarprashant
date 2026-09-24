@@ -140,10 +140,7 @@
 
 ---
 
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parmarprashant&theme=dracula&hide_border=true&radius=10" width="95%" />
-</div>
+
 ---
 
 ## 🐍 Contribution Snake
